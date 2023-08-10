@@ -14,4 +14,4 @@ First C++ Class
   --The use of libraries, and loops were very helpful to learn in a practical manner, and I hope to use both moving forward. 
   
 **How did you make this program maintainable, readable, and adaptable?**
-  --Cutting down on some uneeded code and using functions for calling helped quite a fair bit. Adding comments in line also helped with separating parts of the code from     others. This also allowed for easier ability to make any changes. 
+  --Cutting down on some uneeded code and using functions for calling helped quite a fair bit. Adding comments in line also helped with separating parts of the code from     others. This also allowed for easier ability to make any changes.  
