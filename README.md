@@ -7,8 +7,6 @@ What did you do particularly well?
 
   Slight issues came forth initially, however after looking at similar errors others had faced, I was about to find an exception and a workaround.
   
-Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
-    There could be multiple sites of improvement in the code. The loops seem a bit inconsistent and can be changed a little to allow for faster runtime.
     
 Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 
